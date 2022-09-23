@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eason010212
 - 👀 I’m interested in Programming Education and Classroom Behavior Analysis (Based on Computer Vision)
-- 🌱 I’m currently learning Distance Education (Master) @BNU
+- 🌱 I’m currently a graduate student (major in Distance Education) @BNU
 - 📫 1371033826@qq.com
 
 <!---
