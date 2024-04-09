@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eason010212
-- 👀 I’m interested in Programming Education and Classroom Behavior Analysis
-- 🌱 I’m currently a graduate student (major in Distance Education) @BNU
-- 📫 1371033826@qq.com
+- 👀 I’m interested in AIED
+- 🌱 I’m currently a graduate student @BNU
+- 📫 songyishen@outlook.com
 
 <!---
 Eason010212/Eason010212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
